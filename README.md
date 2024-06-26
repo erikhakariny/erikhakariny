@@ -1,16 +1,15 @@
-## Hi there 👋
+## bem vindo ao meu perfil
 
-<!--
-**erikhakariny/erikhakariny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é erikha kariny
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para minha organizaçao e compartilhamneto dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entrar em contato comigo
+
+blogdaerikhakariny@gmail.com
+
+
+
+![](https://media1.tenor.com/m/4d44dCfO1XUAAAAC/anxiety-packing.gif)
